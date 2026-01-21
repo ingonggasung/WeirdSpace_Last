@@ -1,0 +1,571 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 886515e93a8343c4f9dc693b5b41db78
+  - enabled: 1
+    path: Assets/Scenes/BathroomClear.unity
+    guid: 310b771b1f9542f4cbc9506f09000a36
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_1.unity
+    guid: 3026a94722072734b8f02659abdf97dd
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_2.unity
+    guid: 2c9df4a3ccaaf8a42a86a5fb09b64ea4
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_3.unity
+    guid: 0a2e4f7a2a4d75a4181d30f947c7de37
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_4.unity
+    guid: 6fb5616b857b12249bfb5d2a4dfd0625
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_5.unity
+    guid: 130e069da7790464d9c11fe6f34c0b08
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_6.unity
+    guid: 554c0c2ebc910f74d8d7f45b1503b2a3
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_7.unity
+    guid: df945a73cefa2234d8d862aa088d6e6d
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_8.unity
+    guid: e4fa4c1c7ed59794a828cb633ead64ce
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_9.unity
+    guid: d075df165d10c9b4d927ee41d77b3a55
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_10.unity
+    guid: 231632fe67600f641b0dab7eac1eca9a
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_11.unity
+    guid: 3c4dc6aa2ad8f8f4aba51523543625ec
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_12.unity
+    guid: 4cbaadbca8c4a6440937811cd625838e
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_13.unity
+    guid: 26511694c8e05de448aee2c1eaffdcb1
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_14.unity
+    guid: da91bf6faaba1bd43840bd0a33eb08e0
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_15.unity
+    guid: 54b113f15294cf84c9f056bc82131053
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_16.unity
+    guid: 3663a27ff5e2ac14c99ad44d41610f5c
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_17.unity
+    guid: 1d355dcfb0e44c44691611050c0def2f
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_18.unity
+    guid: 18abc235be7295d4e9ed27ea931ea605
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_19.unity
+    guid: 524df55cf759cb64995b5172a82e13f1
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_20.unity
+    guid: ade27334b8fe0644dbf1c9e0f93f2641
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_21.unity
+    guid: 56f7fc8112dc9ea4f8a1b4a6f328eb70
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_22.unity
+    guid: edbd0917a1010fd45839a98746a2e2fd
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_23.unity
+    guid: 6398c604b41da6a4793f90d656f299a9
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_24.unity
+    guid: 5a79a2cf56f7c2741a333a1f6d0bb6ab
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_25.unity
+    guid: ec67f36cc3a972140b5d415de32a1806
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_26.unity
+    guid: e16ecf31c75a7b74183df8ded9ba0103
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_27.unity
+    guid: ec9c37469ec8c4c479f7f15f959e31f1
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_28.unity
+    guid: 7ff07e07653d2e648ac33529857671e3
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_29.unity
+    guid: 7d6605dc84af004498482fe39339c53a
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_30.unity
+    guid: d48ec727ed4ba5d4f8c980e5b1c8fb7c
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_31.unity
+    guid: e9a7b275e00d82c4d81cc2e5defbe182
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_32.unity
+    guid: cac0fedc01c06c24ebcda138f7bcf7f1
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_33.unity
+    guid: 557dfda6a414daf4e84bac38f0eb1158
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_34.unity
+    guid: 896d2f75b26e7e24092f2870f5293238
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_35.unity
+    guid: b0107944c63a2084cb771152e555c806
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bat_36.unity
+    guid: 7f6768c43422f354aa94506a4a1c56c8
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/Bathroom.unity
+    guid: c09dd5168d6340f468cdfef5c938337b
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/bathroom Clear.unity
+    guid: 34c74f26987707c4cb9ebb42ccbc99c8
+  - enabled: 1
+    path: Assets/Scenes/Bathroom/bathroom wrong.unity
+    guid: e54a35e50491d0945a527b46075d4ccf
+  - enabled: 1
+    path: Assets/Scenes/CharacterShop.unity
+    guid: ee5bac209ff176e43bae780693ceb9d8
+  - enabled: 1
+    path: Assets/Scenes/Choice.unity
+    guid: 5982563af6a0f1d4cbbc9166960d90e1
+  - enabled: 1
+    path: Assets/Scenes/GarageClear.unity
+    guid: 19b140641bbddc34aad73c2f96747da0
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_1.unity
+    guid: d6b0945948812804f83ca20fdcb7fa71
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_2.unity
+    guid: ee6544004df67454c86d80f27280cb40
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_3.unity
+    guid: b8b087b4b1cb3d143b6bb9fbbe8517bc
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_4.unity
+    guid: 995561a590069fe42a278c584d837da9
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_5.unity
+    guid: 9cd9f4eac33be6a4bb867d658e957ad7
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_6.unity
+    guid: 9dbcc14b4be705642b8e7b18a55781c7
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_7.unity
+    guid: 47ffe94e24750934aaf789a6e29112f5
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_8.unity
+    guid: 85161f05848406b40904f75c07c47ac5
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_9.unity
+    guid: 9f7e23bd9961ac745888ae48e1c01cbb
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_10.unity
+    guid: a6f01478838afb848b52b4a40883dbf8
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_11.unity
+    guid: 364b8a919ee045b49a07395f3aed46ba
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_12.unity
+    guid: db061a0f23a30504698f8887b0f34771
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_13.unity
+    guid: 62b3dbbaa315c1f41885671baff3f80c
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_14.unity
+    guid: 91ed53a3e5197fc4ca2abeb97c566541
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_15.unity
+    guid: 694f18a2bd6c0b242af7edb6855f5710
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_16.unity
+    guid: 677f92b02f69fcd4abfd6d498f68b939
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_17.unity
+    guid: 3805d4309ce244247a50471e0fc6cc98
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_18.unity
+    guid: 2819bef3ae9b80d41a891fbea08f22d6
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_19.unity
+    guid: 8765637a7b5cdc548887ae8299a6d36e
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_20.unity
+    guid: cc28ecddc79de4942a19a2e339b5826b
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_21.unity
+    guid: 02e3e21c648f3d04a8a0b25906c3f0c2
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_22.unity
+    guid: ef85b98d4ddc25a49a8913b68164fa62
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_23.unity
+    guid: ac05beee8f49f47498d677b831a6c8ec
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_24.unity
+    guid: 343c07459ff19624f9283657788147ee
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_25.unity
+    guid: 907c5726ef7ec0c4abc205d2a888046b
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_26.unity
+    guid: e3fe735c7b2b8a34fb0decf811efa4e5
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_27.unity
+    guid: f06e659b2e5dd5b4aa3f86ba3d788a3d
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_28.unity
+    guid: 05c6fd9f9f207ec41a9266853db5b530
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_29.unity
+    guid: 52fd1192cfcee804c9dee210a477afc4
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_30.unity
+    guid: f37dfe70581801a4789a3ce2a0a69097
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_31.unity
+    guid: dd15ff37de159de45bf5f4820a6a65f1
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_32.unity
+    guid: 435ed77cfc1943449a5a6be9484b5c5f
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_33.unity
+    guid: 638d8caedd23cb7448ac8a95e3e19d44
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_34.unity
+    guid: 4dbb1f6879ed95d4f854a62dcc02e7ce
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_35.unity
+    guid: 8d77e3418a8746a4ca650becc605db5a
+  - enabled: 1
+    path: Assets/Scenes/Garage/Gar_36.unity
+    guid: 0df1691aaca90e449991c3f74a12babe
+  - enabled: 1
+    path: Assets/Scenes/Garage/Garage.unity
+    guid: f6c42176d88c2c546926be5e00d9b1e9
+  - enabled: 1
+    path: Assets/Scenes/Garage/Garage Clear.unity
+    guid: 8179dc7c8ebe64844a0fb534fac9369f
+  - enabled: 1
+    path: Assets/Scenes/Garage/Garage wrong.unity
+    guid: 2ae388963b626af468a7715835fcef38
+  - enabled: 1
+    path: Assets/Scenes/KidroomClear.unity
+    guid: ce28029cfc3cd3b41a4bffbd681713d1
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_1.unity
+    guid: 5cd1f8b21e65c504489d99cfbb342e6a
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_2.unity
+    guid: 22f2fa2c3fbb3a44ca2b06143fb2bdb0
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_3.unity
+    guid: adca1833f43c0a74e88b563a7662bfc8
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_4.unity
+    guid: c66db200a12b64f4784b6c7051ce68d1
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_5.unity
+    guid: 9270e7575fd599641aac004851980290
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_6.unity
+    guid: 166d6042cc0eb374f98d5cdf3af861c8
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_7.unity
+    guid: 64574839a8e81db4c8dc1d1eba894ed3
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_8.unity
+    guid: 48bd227f18d8e954483c7baff4650de9
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_9.unity
+    guid: 34dec21947734ba499fbf4be93914cd8
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_10.unity
+    guid: 19a6b07ac3af1834a8f04033b0e15766
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_11.unity
+    guid: 1be7dba604ac8de4da898c3b808311f0
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_12.unity
+    guid: d512f8e5e11364840bd204d0d1eee9df
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_13.unity
+    guid: eb7d1f346876e0a4b8d3d926ef52babe
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_14.unity
+    guid: af8418b10efc3bf4fbdf08680633b640
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_15.unity
+    guid: 384de3d5f1cba30449014467f88ae9e9
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_16.unity
+    guid: 1fbad6f6a3365ad4287b2a17cb30bee2
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_17.unity
+    guid: 7a07d29041aac6b409f22ea767ce8431
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_18.unity
+    guid: 35ff9edc428afe749829956ccd7031f9
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_19.unity
+    guid: a950ed0663474f94283f489276840327
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_20.unity
+    guid: 58c84f04757ae65499009d168c15cb64
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_21.unity
+    guid: 5c6d362e31916e548bb204351a8b0137
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_22.unity
+    guid: 568e2553e8b26fe4cbf063d0a4a7d321
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_23.unity
+    guid: d45867c797b0bf74d815ac6e30cdbae1
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_24.unity
+    guid: c7983e97772979e4e9fefc3978bf0b1c
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_25.unity
+    guid: a0ce15d16c1136c49bb50a4aedee7235
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_26.unity
+    guid: acc5ade4f2e49b748bef60cf7d38d9cd
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_27.unity
+    guid: 1ae481ffe5112734b87c0542fb80a1d8
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_28.unity
+    guid: de0468f1d2b617349819466bc6da03f6
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_29.unity
+    guid: 978f3ff767161004dbade28cb866f1ee
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_30.unity
+    guid: a045f1b4d5031824396ce5df3214499b
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_31.unity
+    guid: d8106da16fc40e349945c99f96d5a868
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_32.unity
+    guid: 268807d446d32cf489608562ba7a4144
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_33.unity
+    guid: db10fffeea9446f479433dde2aad1e41
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_34.unity
+    guid: 58421d4e2e3da6244994b165e88f9028
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_35.unity
+    guid: d5d2a8a7f4e5e174987e1d645c09ad75
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_36.unity
+    guid: 8fba5644d1730994caa47158c638deb6
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_37.unity
+    guid: e2de2f21600c1024bbdfc8de5cb97044
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_38.unity
+    guid: 51e5104d3b9ed054295d4384228ab68a
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kid_39.unity
+    guid: 04cd2e32b67d2a841883afc20e9edebd
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kidroom.unity
+    guid: 8f2e383e223be504e9a3807946a3a497
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kidroom Clear.unity
+    guid: 2634d07a92842c94a8295092be1ade86
+  - enabled: 1
+    path: Assets/Scenes/Kidsroom/Kidroom wrong.unity
+    guid: fe60d626d3d2eaf41b2d6807619d6b48
+  - enabled: 1
+    path: Assets/Scenes/KitchenClear.unity
+    guid: a45461135f2ed8d4f88e9fdf501f2f5f
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_1.unity
+    guid: 42b9e7d9672319f48b071722fa1d6994
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_2.unity
+    guid: cd6a738665035eb4ea56cc5efda0bf76
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_3.unity
+    guid: 5435b6e48b5d21140a80a4d74e35736a
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_4.unity
+    guid: 04b06d17c3a1f954b9677d8e1254d8a0
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_5.unity
+    guid: 05461a8cbdc052d4c92635ef6acc5ed3
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_6.unity
+    guid: d4633c8f958f141469aeb70dd1dcf587
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_7.unity
+    guid: b24b4dabd268716448f861854134357d
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_8.unity
+    guid: 456fefdf0c4eb334094b18dce8090176
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_9.unity
+    guid: 38baea630b859bb49b132283cde0912f
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_10.unity
+    guid: 25bc0e60f8b43a34e8552809a3036f10
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_11.unity
+    guid: feff7a95005d1c045a14f4c0e41570c5
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_12.unity
+    guid: e8f8ac88502779e47b8846b39229029f
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_13.unity
+    guid: a5acfcffbbb603d4f94258e7bb4f6ded
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_14.unity
+    guid: b50c1a06ddc4c064697015212ef6efa9
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_15.unity
+    guid: d82e17e25788a164d9d182c957112bc7
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_16.unity
+    guid: 992cbb9ae06d88a47949542273c47dd5
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_17.unity
+    guid: dcddc538f251c3842ad0672e58cb42cb
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_18.unity
+    guid: 86bd4e892fc474243a8213c248722d76
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_19.unity
+    guid: 97f1d24759f63394595a4b06c3543f71
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_20.unity
+    guid: 8aed91545d35cde4bb5013f805ef352b
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_21.unity
+    guid: 240d99f5f0475b748b6ba1a7dcdb8f52
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_22.unity
+    guid: 69b92590e5a82ca4986020bdb96f97de
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_23.unity
+    guid: 8a33b6b02b60f644bac6f2550c16e013
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_24.unity
+    guid: ed12c9dcaf08783459b038cf50f16d0f
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_25.unity
+    guid: f51f540bb4828dc4aa2bfc787031ed36
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kit_26.unity
+    guid: ff49ef87397d88a4893b1776d5d54759
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/Kitchen.unity
+    guid: 9e2d74c3c5c473b42b506cb67d7c9b3b
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/kitchen Clear.unity
+    guid: d907dc468b2dd224590ce84fe86f74fd
+  - enabled: 1
+    path: Assets/Scenes/Kitchen/kitchen wrong.unity
+    guid: a9dd8f1d11fdd6646ba0df21835a93cc
+  - enabled: 1
+    path: Assets/Scenes/LivingClear.unity
+    guid: ab707ad3d105eaf4fbe89557f6740ac1
+  - enabled: 1
+    path: Assets/Scenes/livingroom/livingroom.unity
+    guid: a268704737c01cf418c0a3bd44b917b7
+  - enabled: 1
+    path: Assets/Scenes/livingroom/livingroom Clear.unity
+    guid: 6b014a723821c1f488976e89ddb82d3b
+  - enabled: 1
+    path: Assets/Scenes/livingroom/livingroom wrong.unity
+    guid: cd26629674297884ca93596b2beef92c
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage1.unity
+    guid: 6be84826f759c284fb06625a2f377e4f
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage2.unity
+    guid: 41e3299e1be3ba147b39f43a27387184
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage3.unity
+    guid: f01e6d329c4b5474689cd82324292dd1
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage4.unity
+    guid: 509c2d4a121736d46b582cee52a06332
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage5.unity
+    guid: 54e2b231fc7f82647819452d6c6fa2dd
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage6.unity
+    guid: 5da9c41973c0bd844867067a6081f760
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage7.unity
+    guid: e03e91c6c77c4fa4b995ec0a9ea791d0
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage8.unity
+    guid: 5dc5f7e09c5840c43bfcf5715ec39d98
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage9.unity
+    guid: c0980913742758d46999f5ddcd833d5c
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage10.unity
+    guid: c611285eae5b85a4f932d336a2eb4708
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage11.unity
+    guid: fecfbf7b27c4825499f4c6439276b97a
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage12.unity
+    guid: ed3f1ee718b6f794aa5b287839c715fa
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage13.unity
+    guid: 1aa37dca1afea9f4c8be2cdd25dcff90
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage14.unity
+    guid: 32176f373e3c5bc48a901539c0e728d0
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage15.unity
+    guid: 9da2b8cb2e5279941ba31d1df2867570
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage16.unity
+    guid: 93305755d9e6ee54db036e26c1bea11d
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage17.unity
+    guid: eedb39614045ce84a9ee2ebdf2a8bda9
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage18.unity
+    guid: c481e752f4d6b5042b6df5b8a5645068
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage19.unity
+    guid: e4d785fc53b0bbf448b546f2a93f3a2d
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage20.unity
+    guid: 12d9e7ef568465e4aa658b2b599c8eaa
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage21.unity
+    guid: ed882cde31667d84ebfdf14d4e75dad0
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage22.unity
+    guid: 1574b62ec2bb89c4ab40d349e95cb591
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage23.unity
+    guid: f9c18ecaeca70f44eaeaf6dd96c0a1ae
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage24.unity
+    guid: 682762f5984ec2c458c6090e17cb958b
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage25.unity
+    guid: 61a32d891594d484696b27d70d5f1789
+  - enabled: 1
+    path: Assets/Scenes/livingroom/Stage26.unity
+    guid: 8b93c822e38340442947c8c2657d372f
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
